@@ -1,0 +1,14 @@
+{
+  "name": "autolinker",
+  "repo": "camshaft/Autolinker.js",
+  "description": "Simple utility to automatically link the URLs, email addresses, and Twitter handles in a given block of text/HTML.",
+  "version": "0.11.2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "dist/Autolinker.js",
+  "scripts": [
+    "dist/Autolinker.js"
+  ]
+}
